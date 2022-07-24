@@ -4,6 +4,16 @@ A Minecraft modpack based on [Fabulously Optimised](https://github.com/Fabulousl
 
 As it is a derivative of Fabulously Optimised, it is licenced under the BSD 3-Clause "New" or "Revised" License, which can be found in [LICENCE-FO.md](LICENCE-FO.md)
 
+## Usage
+
+To use Tastefully Enhanced, you will need the [MultiMC launcher](https://multimc.org/) or a fork such as [PolyMC](https://polymc.org/), so start by installing one of those if you don't already have it.
+
+Next, download the latest `TastefullyEnhanced.zip` file from [Releases](https://github.com/Seercat3160/tastefully-enhanced/releases/latest).
+
+Open MultiMC and click the "Add Instance" button. Then, click "Import from zip" and select the `TastefullyEnhanced.zip` you downloaded earlier. Click "Ok" and note the new "Tastefully Enhanced" instance in the menu.
+
+Launch the instance, and everything will install for you. Every time you want to play Minecraft with Tastefully Enhanced, open MultiMC and launch the instance. The launcher will keep Minecraft and the mods up to date with the modpack, so you don't have to update anything yourself.
+
 ## Mods
 
 - Everything in [Fabulously Optimised 4.0.0-beta.11](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/tag/v4.0.0-beta.11)

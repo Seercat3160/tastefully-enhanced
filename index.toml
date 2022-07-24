@@ -10,7 +10,7 @@ hash = "31619d60d0f708dab99e7193143076bfa31a5e75c5eb228ed4e17004f0cb7195"
 
 [[files]]
 file = "README.md"
-hash = "fd8eee70b59e0092ff6b9c28d2cc0f31bd80d2d04b10b646ba91c668cfc5c04e"
+hash = "471444e8b4853c4b34f74f8715add409365de95173d7ccf8a9d5db3cd85dfb5c"
 
 [[files]]
 file = "config/citresewn.json"
@@ -108,8 +108,28 @@ hash = "3460db95383cf24e5171f466bfc196c7f953eb7624ac10381de2c65356e265c0"
 metafile = true
 
 [[files]]
+file = "mods/appleskin.pw.toml"
+hash = "b99f8b297b9429f5185c84805d1a67f650bba836cf83c6c9d81b275261169672"
+metafile = true
+
+[[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "b10b2a8ee124f43934c1e483262e1dd7b7480c8eb4adc929b26ed0b5d2d41d3e"
+metafile = true
+
+[[files]]
+file = "mods/badpackets.pw.toml"
+hash = "d8fe226cd050b8c94fcb98819b2646a74863ad8d52fc22db37c29fe66e53996d"
+metafile = true
+
+[[files]]
 file = "mods/better-mount-hud.pw.toml"
 hash = "fe0fb406a9ba81b2e501d41db4606ed512687045e5c515481edc12b00119940e"
+metafile = true
+
+[[files]]
+file = "mods/boosted-brightness.pw.toml"
+hash = "5d7d1c6d7d68f972478ccfd02820f18f3db5e761ecf5965d9e1e151a8a75938a"
 metafile = true
 
 [[files]]
@@ -178,6 +198,11 @@ hash = "91520be992ba24e8b7a4e5d5b9dc3f20ad2807d1c789f20eb0583c5fdfaa0401"
 metafile = true
 
 [[files]]
+file = "mods/fabrictailor.pw.toml"
+hash = "d7892548e0b0bbcad9dccd94f99786770d296d386eb1eaab525b56046aa7218a"
+metafile = true
+
+[[files]]
 file = "mods/fabrishot.pw.toml"
 hash = "54566a4d869db8c6139ed8900bbb2a3977f5328dcfcf9e43f1b63d008c93a43a"
 metafile = true
@@ -195,6 +220,11 @@ metafile = true
 [[files]]
 file = "mods/indium.pw.toml"
 hash = "21ae6591048a111fba70d41a57ee0b7f16e73011f970ce88c21d9ccdea170b0a"
+metafile = true
+
+[[files]]
+file = "mods/inspecio.pw.toml"
+hash = "1cefb097ea4012055582060d6939a7928f359a514f01dde8cbf0edb58a13d388"
 metafile = true
 
 [[files]]
@@ -269,7 +299,7 @@ metafile = true
 
 [[files]]
 file = "mods/no-chat-reports.pw.toml"
-hash = "26f22e33023ad228024ef1987604b654d6a6de9aec3174969e7d9fea48b71b4b"
+hash = "d48418bcd2fa81939864dc15e2230909b945c9b618064f16cc11f9b4db581740"
 metafile = true
 
 [[files]]
@@ -303,6 +333,11 @@ hash = "242d59152c19a148d3d5b6a0bf46ffb0280e822f90e78b417e9669518bcc1ab5"
 metafile = true
 
 [[files]]
+file = "mods/roughly-enough-items.pw.toml"
+hash = "262747a4c510468917e3ba218fe95680e17ce80522661c65157d64a8ec40a62f"
+metafile = true
+
+[[files]]
 file = "mods/smooth-boot.pw.toml"
 hash = "eb68f07474889d53f9b81902ad7aca2979604aa6d5102327574b687b1e1c1424"
 metafile = true
@@ -325,6 +360,26 @@ metafile = true
 [[files]]
 file = "mods/tooltipfix.pw.toml"
 hash = "5520c1dc76ba02ac7ab0648ca5facc2e5e65e6f98b5bc1c9b95d6f8be8280238"
+metafile = true
+
+[[files]]
+file = "mods/worldeditcui-fabric.pw.toml"
+hash = "967674c89571c0e2cc9de0d3fc2131ab98a3e2bc65c5ca55d5d7a1980900aced"
+metafile = true
+
+[[files]]
+file = "mods/wthit.pw.toml"
+hash = "17554f552f85b9170399bd79dcd842138d4e777f8f9d129b0631a84c20d998cb"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "0360f1b7e138c05c7e8a6541e087eac24845212cb8c0565c3a219c6abf6f41c3"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "d16b4b5ad11c01690bccfcef8b4965123d064da7914451654f3cbea7b9005b2f"
 metafile = true
 
 [[files]]

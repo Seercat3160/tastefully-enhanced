@@ -10,7 +10,7 @@ hash = "31619d60d0f708dab99e7193143076bfa31a5e75c5eb228ed4e17004f0cb7195"
 
 [[files]]
 file = "README.md"
-hash = "471444e8b4853c4b34f74f8715add409365de95173d7ccf8a9d5db3cd85dfb5c"
+hash = "0dfb36fb31cddd5c6f4d26b66c548870a8438254ec72147f600f0c4395842388"
 
 [[files]]
 file = "config/citresewn.json"
@@ -115,6 +115,11 @@ metafile = true
 [[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "b10b2a8ee124f43934c1e483262e1dd7b7480c8eb4adc929b26ed0b5d2d41d3e"
+metafile = true
+
+[[files]]
+file = "mods/auditory.pw.toml"
+hash = "4385eda2b4befc04b99c7e12f0be36ba1dbc3d295a027d9a758fb9ab1e5d548a"
 metafile = true
 
 [[files]]
@@ -298,6 +303,11 @@ hash = "287cb1e75ecc414194f174fc24c0675603dc01e928f6fd12fd27fc9c1065e63d"
 metafile = true
 
 [[files]]
+file = "mods/mouse-wheelie.pw.toml"
+hash = "13699f3734855513b9bc9d6de3cf4a23b5c20bd83ac4ef825d0444880072fccf"
+metafile = true
+
+[[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "d48418bcd2fa81939864dc15e2230909b945c9b618064f16cc11f9b4db581740"
 metafile = true
@@ -315,6 +325,11 @@ metafile = true
 [[files]]
 file = "mods/optigui.pw.toml"
 hash = "c4aebe0362765c366bc23fd89150f8249877f6bad869aa3328cdbfd0c5cacbdf"
+metafile = true
+
+[[files]]
+file = "mods/presence-footsteps.pw.toml"
+hash = "8e0dd19937c97f136cd5112c3a9231a6669d08a1d169d47b5e97b30a7248c0ad"
 metafile = true
 
 [[files]]
@@ -350,6 +365,11 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "4bfa59263c3c2e8b8435eecdd8a944d1345b4b249191ccbadc953f3417b93608"
+metafile = true
+
+[[files]]
+file = "mods/sound-physics-remastered.pw.toml"
+hash = "1356d576f70d5d361ffc74591905479ec11b20745fcefe97f3ded53663560469"
 metafile = true
 
 [[files]]

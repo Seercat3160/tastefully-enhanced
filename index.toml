@@ -10,7 +10,7 @@ hash = "31619d60d0f708dab99e7193143076bfa31a5e75c5eb228ed4e17004f0cb7195"
 
 [[files]]
 file = "README.md"
-hash = "0dfb36fb31cddd5c6f4d26b66c548870a8438254ec72147f600f0c4395842388"
+hash = "20997b05547408a449124048fa81e6cb7139bf70c763d522af3a42b2abbc3a14"
 
 [[files]]
 file = "config/citresewn.json"
@@ -26,7 +26,7 @@ hash = "5c0926fe0e7686e798d0486781a0c6510394e4a5a96f2d7f2952761cef64f9c5"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "7310000b9a0534b6ca23c46dd989c4a2fa0cfd4eeaf90cbc07ab1db66e860d80"
+hash = "9e12d4df55ed4ab6460a99817ef15b971ba05443c8e09893f860bd098f1b4e01"
 
 [[files]]
 file = "config/modmenu.json"
@@ -189,7 +189,7 @@ metafile = true
 
 [[files]]
 file = "mods/entity-texture-features-fabric.pw.toml"
-hash = "3e0d9672632d67a4960ba88f5cfea5bf312c46af523470ce102e479b5ad2b7cc"
+hash = "bc927da092ee23dc5668d9607fb91362bde587b280564c00d45e44cac244205f"
 metafile = true
 
 [[files]]
@@ -234,7 +234,7 @@ metafile = true
 
 [[files]]
 file = "mods/irisshaders.pw.toml"
-hash = "c141133aa236e002f9b32baf6e9c8c2c3f4618fcc3defbd3bc3d2aa24f7b96b7"
+hash = "7befee16152b92859affdb23cf8015c71c6f3cf39f8e544a8af67462595241c7"
 metafile = true
 
 [[files]]
@@ -299,7 +299,7 @@ metafile = true
 
 [[files]]
 file = "mods/moreculling.pw.toml"
-hash = "287cb1e75ecc414194f174fc24c0675603dc01e928f6fd12fd27fc9c1065e63d"
+hash = "f2c1e27915f7c34066bd5762054f10b77288f010d7a950b6948d6c7d7a9019cc"
 metafile = true
 
 [[files]]
@@ -309,7 +309,7 @@ metafile = true
 
 [[files]]
 file = "mods/no-chat-reports.pw.toml"
-hash = "d48418bcd2fa81939864dc15e2230909b945c9b618064f16cc11f9b4db581740"
+hash = "26f22e33023ad228024ef1987604b654d6a6de9aec3174969e7d9fea48b71b4b"
 metafile = true
 
 [[files]]
@@ -339,7 +339,7 @@ metafile = true
 
 [[files]]
 file = "mods/qsl.pw.toml"
-hash = "b054c54c9732cf012526bcb529c189f808692c17aa29e306444a2110df43d38d"
+hash = "9fef0d721c01921722dedb7574df735969a5feafc5f6d28d3289cd99bf264e05"
 metafile = true
 
 [[files]]
@@ -359,7 +359,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"
-hash = "612eeff30958ca942d29aa15ddab76e03b2d3de10fa3768dae0e377fbf201f8e"
+hash = "3819426b160a445edb28b35d2286b4a9af8944744191a6ea609903ee685d14bf"
 metafile = true
 
 [[files]]
@@ -414,4 +414,4 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/Mod Menu Helper.zip"
-hash = "67b465e35500cdf83b751ded61ee1a1286a1e466a26e9a73353a17c7e2f37d29"
+hash = "2892992941d89d02f92b7f5d7c96bbf5378fa814914628d25e0b032eac82edaf"

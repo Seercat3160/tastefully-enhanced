@@ -26,7 +26,7 @@ hash = "5c0926fe0e7686e798d0486781a0c6510394e4a5a96f2d7f2952761cef64f9c5"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "e27c7ea23e59112f385d3a374f1193c0078c997223a3bde626cda7071f28f03b"
+hash = "892c80f3c83a17de758e4d180195e20869b7fd42c5e5f1eed881b7e46cdb69fb"
 
 [[files]]
 file = "config/modmenu.json"
@@ -339,7 +339,7 @@ metafile = true
 
 [[files]]
 file = "mods/qsl.pw.toml"
-hash = "9fef0d721c01921722dedb7574df735969a5feafc5f6d28d3289cd99bf264e05"
+hash = "b054c54c9732cf012526bcb529c189f808692c17aa29e306444a2110df43d38d"
 metafile = true
 
 [[files]]

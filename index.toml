@@ -10,7 +10,7 @@ hash = "31619d60d0f708dab99e7193143076bfa31a5e75c5eb228ed4e17004f0cb7195"
 
 [[files]]
 file = "README.md"
-hash = "b58b84596efe398ebf8ee2f451459c23517527d3f7a95d15f9718a4b80d59ba1"
+hash = "a0e0f9a04de770d64f9d71f14db5efd8324a710e6f8eaa25843d5be13b095f33"
 
 [[files]]
 file = "config/citresewn.json"
@@ -389,7 +389,7 @@ metafile = true
 
 [[files]]
 file = "mods/wthit.pw.toml"
-hash = "17554f552f85b9170399bd79dcd842138d4e777f8f9d129b0631a84c20d998cb"
+hash = "cec6c78672e420d4f38f05cb3a95fed3d76ec3573804244a29edfd3859269281"
 metafile = true
 
 [[files]]

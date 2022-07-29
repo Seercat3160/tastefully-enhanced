@@ -27,7 +27,7 @@ Launch the instance, and everything will install for you. Every time you want to
 - [Xaero's World Map v1.26.1](https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map/files/3876752)
 - [Xaero's Minimap v22.12.0](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap/files/3876771)
 - [Boosted Brightness v2.1.2](https://modrinth.com/mod/boosted-brightness/version/2.1.2)
-- [WTHIT v5.7.0](https://modrinth.com/mod/wthit/version/quilt-5.7.0)
+- [WTHIT v5.8.0](https://modrinth.com/mod/wthit/version/quilt-5.8.0)
   - [Bad Packets v0.1.2](https://modrinth.com/mod/badpackets/version/fabric-0.1.2)
 - [Fabric Tailor v1.8.4](https://modrinth.com/mod/fabrictailor/version/1.8.4)
 - [WorldEdit CUI v1.19+01](https://www.curseforge.com/minecraft/mc-mods/worldeditcui-fabric/files/3861076)

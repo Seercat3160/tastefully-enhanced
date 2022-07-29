@@ -10,7 +10,7 @@ hash = "31619d60d0f708dab99e7193143076bfa31a5e75c5eb228ed4e17004f0cb7195"
 
 [[files]]
 file = "README.md"
-hash = "20997b05547408a449124048fa81e6cb7139bf70c763d522af3a42b2abbc3a14"
+hash = "b58b84596efe398ebf8ee2f451459c23517527d3f7a95d15f9718a4b80d59ba1"
 
 [[files]]
 file = "config/citresewn.json"
@@ -349,7 +349,7 @@ metafile = true
 
 [[files]]
 file = "mods/roughly-enough-items.pw.toml"
-hash = "262747a4c510468917e3ba218fe95680e17ce80522661c65157d64a8ec40a62f"
+hash = "84c366e5f0d189b5e677d254ea1efb61e12ef4e354079fe33d637c754a1571e7"
 metafile = true
 
 [[files]]

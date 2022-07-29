@@ -21,7 +21,7 @@ Launch the instance, and everything will install for you. Every time you want to
 - Replaced [Fabric API](https://modrinth.com/mod/fabric-api) with [Quilted Fabric API](https://modrinth.com/mod/qsl/)
 - [No Chat Reports v1.2.3](https://modrinth.com/mod/no-chat-reports/version/Fabric-1.19-v1.2.3)
 - [Inspecio v1.4.2+1.19](https://modrinth.com/mod/inspecio/version/1.4.2%2B1.19)
-- [Roughly Enough Items v9.1.517](https://modrinth.com/mod/roughly-enough-items/version/9.1.517%2Bfabric)
+- [Roughly Enough Items v9.1.518](https://modrinth.com/mod/roughly-enough-items/version/9.1.518%2Bfabric)
   - [Architectury API v5.10.23](https://modrinth.com/mod/architectury-api/version/5.10.33%2Bfabric)
 - [AppleSkin v2.4.0](https://modrinth.com/mod/appleskin/version/fabric-mc1.19-2.4.0)
 - [Xaero's World Map v1.26.1](https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map/files/3876752)

@@ -31,3 +31,7 @@ Launch the instance, and everything will install for you. Every time you want to
   - [Bad Packets v0.1.2](https://modrinth.com/mod/badpackets/version/fabric-0.1.2)
 - [Fabric Tailor v1.8.4](https://modrinth.com/mod/fabrictailor/version/1.8.4)
 - [WorldEdit CUI v1.19+01](https://www.curseforge.com/minecraft/mc-mods/worldeditcui-fabric/files/3861076)
+- [Auditory v0.0.2](https://modrinth.com/mod/auditory/version/0.0.2)
+- [Sound Physics Remastered v1.0.11](https://modrinth.com/mod/sound-physics-remastered/version/fabric-1.19-1.0.11)
+- [Mouse Wheelie v1.10.2](https://modrinth.com/mod/mouse-wheelie/version/1.10.2%2Bmc1.19-pre1)
+- [Presence Footsteps v1.6.1](https://modrinth.com/mod/presence-footsteps/version/1.6.1)

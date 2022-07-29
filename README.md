@@ -16,7 +16,7 @@ Launch the instance, and everything will install for you. Every time you want to
 
 ## Mods
 
-- Everything in [Fabulously Optimised 4.0.0-beta.11](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/tag/v4.0.0-beta.11)
+- Everything in [Fabulously Optimised 4.0.0-beta.12](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/tag/v4.0.0-beta.12)
 - Replaced [Fabric Loader](https://fabricmc.net/) with [Quilt](https://quiltmc.org/)
 - Replaced [Fabric API](https://modrinth.com/mod/fabric-api) with [Quilted Fabric API](https://modrinth.com/mod/qsl/)
 - [No Chat Reports v1.2.3](https://modrinth.com/mod/no-chat-reports/version/Fabric-1.19-v1.2.3)

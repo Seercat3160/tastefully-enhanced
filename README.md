@@ -6,7 +6,7 @@ As it is a derivative of Fabulously Optimised, it is licenced under the BSD 3-Cl
 
 ## Usage
 
-To use Tastefully Enhanced, you will need the [MultiMC launcher](https://multimc.org/) or a fork such as [PolyMC](https://polymc.org/), so start by installing one of those if you don't already have it.
+To use Tastefully Enhanced, you will need the [MultiMC launcher](https://multimc.org/) or a compatible fork, so start by installing one of those if you don't already have it.
 
 Next, download the latest `TastefullyEnhanced.zip` file from [Releases](https://github.com/Seercat3160/tastefully-enhanced/releases/latest).
 
@@ -16,7 +16,7 @@ Launch the instance, and everything will install for you. Every time you want to
 
 ## Mods
 
-- Everything in [Fabulously Optimised 4.4.0](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/tag/v4.4.0)
+- Everything in [Fabulously Optimised 4.4.2](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/tag/v4.4.2)
 - Replaced [Fabric Loader](https://fabricmc.net/) with [Quilt](https://quiltmc.org/)
 - Replaced [Fabric API](https://modrinth.com/mod/fabric-api) with [Quilted Fabric API](https://modrinth.com/mod/qsl/)
 - [Inspecio v1.6.0+1.19](https://modrinth.com/mod/inspecio/version/1.6.0%2B1.19)

@@ -10,7 +10,7 @@ hash = "31619d60d0f708dab99e7193143076bfa31a5e75c5eb228ed4e17004f0cb7195"
 
 [[files]]
 file = "README.md"
-hash = "bfeea876f03476ac0cb1877461045e2b6f6b31a3075ef43fd37c10b515155204"
+hash = "36e55772d49879d0b1f329bcec0cb964059c286bba1bb23dbfdba6654ffb5193"
 
 [[files]]
 file = "config/citresewn.json"
@@ -26,7 +26,7 @@ hash = "2c61ff627748d803f5a7a7b676dbeb74b99bf38831c37f9d379665e35f02731e"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "093d86f49b3f83f7afff603fd0c8d216a4ca91cd816dabe401dfd022d8437f02"
+hash = "00dc41bba75e6701cba2b2cda47a21762b036ed03794f973b600f3ac3cc36475"
 
 [[files]]
 file = "config/lithium.properties"
@@ -220,7 +220,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "5ebe98b5fca6c8121cb30abfc2a0de59cec7cba532c0c2b2459621b254a1b2e3"
+hash = "6058946b7fb51a487cfdf61cba87562eda75ee38ebb16ae336c26fb24dd17c26"
 metafile = true
 
 [[files]]
@@ -290,7 +290,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "57f7d88d1294299952a602ae381a877d56af8a05a8e01af3729caf6557b2b1e2"
+hash = "3c0f3449da160cb20a5b535e47fc7363fdfead22fdbb96d425d16b5a392eeed9"
 metafile = true
 
 [[files]]
@@ -355,7 +355,7 @@ metafile = true
 
 [[files]]
 file = "mods/qsl.pw.toml"
-hash = "997b1a93ccd70d86710170532e27b301cd15723fd7e8e74a14d8322ce5d47dd7"
+hash = "954e3e7244f965133e5fc50d861829fb28531e70ab490dea1fc03c57d7bdfd87"
 metafile = true
 
 [[files]]
@@ -395,17 +395,17 @@ metafile = true
 
 [[files]]
 file = "mods/wthit.pw.toml"
-hash = "de08ce31ccfbd64fb308ddb0d1076d4e6cd65ac43bd6a16e57e01a1d14336428"
+hash = "b0edd73a7a58bd592f67d61083db20ea896dbbdd79c1c410efe0c692b3bcfc08"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "1e03d06406c79dacbd421b6ff85437e495d6e09a95174c4c64f349f8c4a8cc31"
+hash = "13a87b21bb54900af31364fed22b2c69a178ffaa490d5f6bb84bbf637df25077"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "f7ea3e07850d2ba0475eb9f42424d329edd37c7eeb463689d6ed29d9579f9541"
+hash = "b1af4eefa1a2323bcfabb94592712b34ef3088098e8e26086ff48abe8cf0baf9"
 metafile = true
 
 [[files]]

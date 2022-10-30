@@ -33,4 +33,5 @@ Launch the instance, and everything will install for you. Every time you want to
 - [Sound Physics Remastered v1.0.15](https://modrinth.com/mod/sound-physics-remastered/version/fabric-1.19.2-1.0.15)
 - [Mouse Wheelie v1.10.2](https://modrinth.com/mod/mouse-wheelie/version/1.10.2%2Bmc1.19-pre1)
 - [Presence Footsteps v1.6.2](https://modrinth.com/mod/presence-footsteps/version/1.6.2)
+- [Multiconnect 1.6-beta.23](https://modrinth.com/mod/multiconnect/version/1.6-beta.23)
 - Update to [Lithium v0.10.0](https://modrinth.com/mod/lithium/version/mc1.19.2-0.10.0) to fix compat issues (this will be removed when FO updates)

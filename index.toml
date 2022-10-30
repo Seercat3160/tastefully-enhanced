@@ -10,7 +10,7 @@ hash = "31619d60d0f708dab99e7193143076bfa31a5e75c5eb228ed4e17004f0cb7195"
 
 [[files]]
 file = "README.md"
-hash = "7af56676fabf9acc97b7beaf7e0d3189f842c3e1cfe2252ec3cf2eb7ef0280bb"
+hash = "3a652156c7e7ddca0b740a955bf5d7b805c86c44d73e7f169fc5ebb03721fcf0"
 
 [[files]]
 file = "config/citresewn.json"
@@ -294,6 +294,11 @@ hash = "3c0f3449da160cb20a5b535e47fc7363fdfead22fdbb96d425d16b5a392eeed9"
 metafile = true
 
 [[files]]
+file = "mods/malilib.pw.toml"
+hash = "3926d859126491c673d921c3f3f93316766689ff0694f83d82255ec4776d3c74"
+metafile = true
+
+[[files]]
 file = "mods/memoryleakfix.pw.toml"
 hash = "a14b732551a1c7ab36adb5adbd178a9a87c75ffb854e476845ea9226bd0c932e"
 metafile = true
@@ -396,6 +401,11 @@ metafile = true
 [[files]]
 file = "mods/starlight.pw.toml"
 hash = "7c42bb0fe982cf5004bfcb62690e9b433890ebd76ea94611fd91c68b00f386fe"
+metafile = true
+
+[[files]]
+file = "mods/tweakeroo.pw.toml"
+hash = "c5edf1f8114b808f9a63134f2973745b3e4172478b7f0aec5c9359f1325f37da"
 metafile = true
 
 [[files]]

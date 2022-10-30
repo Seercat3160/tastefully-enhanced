@@ -35,4 +35,6 @@ Launch the instance, and everything will install for you. Every time you want to
 - [Presence Footsteps v1.6.2](https://modrinth.com/mod/presence-footsteps/version/1.6.2)
 - [WorldEdit CUI v1.19_01](https://www.curseforge.com/minecraft/mc-mods/worldeditcui-fabric/files/3861076)
 - [NotEnoughCrashes v4.1.8](https://modrinth.com/mod/notenoughcrashes/version/4.1.8)
+- [Tweakeroo v0.14.3](https://www.curseforge.com/minecraft/mc-mods/tweakeroo/files/3923075)
+  - [MaLiLib v0.13.0](https://www.curseforge.com/minecraft/mc-mods/malilib/files/3923052)
 - Update to [Lithium v0.10.0](https://modrinth.com/mod/lithium/version/mc1.19.2-0.10.0) to fix compat issues (this will be removed when FO updates)

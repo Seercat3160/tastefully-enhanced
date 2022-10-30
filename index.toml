@@ -10,7 +10,7 @@ hash = "31619d60d0f708dab99e7193143076bfa31a5e75c5eb228ed4e17004f0cb7195"
 
 [[files]]
 file = "README.md"
-hash = "36e55772d49879d0b1f329bcec0cb964059c286bba1bb23dbfdba6654ffb5193"
+hash = "718ddf4011e5a49efaf64bbb7e7204a3d109d5800a4c341f1560bc518064b041"
 
 [[files]]
 file = "config/citresewn.json"
@@ -391,6 +391,11 @@ metafile = true
 [[files]]
 file = "mods/starlight.pw.toml"
 hash = "7c42bb0fe982cf5004bfcb62690e9b433890ebd76ea94611fd91c68b00f386fe"
+metafile = true
+
+[[files]]
+file = "mods/worldeditcui-fabric.pw.toml"
+hash = "967674c89571c0e2cc9de0d3fc2131ab98a3e2bc65c5ca55d5d7a1980900aced"
 metafile = true
 
 [[files]]

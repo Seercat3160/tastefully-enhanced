@@ -10,7 +10,7 @@ hash = "31619d60d0f708dab99e7193143076bfa31a5e75c5eb228ed4e17004f0cb7195"
 
 [[files]]
 file = "README.md"
-hash = "718ddf4011e5a49efaf64bbb7e7204a3d109d5800a4c341f1560bc518064b041"
+hash = "7af56676fabf9acc97b7beaf7e0d3189f842c3e1cfe2252ec3cf2eb7ef0280bb"
 
 [[files]]
 file = "config/citresewn.json"
@@ -336,6 +336,11 @@ metafile = true
 [[files]]
 file = "mods/nochatreports.pw.toml"
 hash = "34ca90ac8e1047a726588bbcb4b0b73a8139a0839ac625394012ee1716b5f775"
+metafile = true
+
+[[files]]
+file = "mods/notenoughcrashes.pw.toml"
+hash = "cd2704a99b24207489be8c2b19167e04e241fc4385985fbb3761eda1ed92d26f"
 metafile = true
 
 [[files]]

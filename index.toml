@@ -10,7 +10,7 @@ hash = "31619d60d0f708dab99e7193143076bfa31a5e75c5eb228ed4e17004f0cb7195"
 
 [[files]]
 file = "README.md"
-hash = "c67d111e67546e6de53c5bfb83c43a3dda4964c1df4e67622bb0bc069d7d713a"
+hash = "1279cb56eefe151b0823dd30d26363c843928873681617aed2b9d97c8b77b5b4"
 
 [[files]]
 file = "config/citresewn.json"
@@ -26,7 +26,7 @@ hash = "aea044f0b5513d77e3a13c0999dad03df447d097ca65dc9f88649c35a5cfa08e"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "73aefbe0bc82d1b2e980985cb65a404f4847fb6e35b26a0b3e24d86ccc69a792"
+hash = "798c68076a6f9c0f2e920db87c8acc02ad4326e373388836b3ca045e2772cdf9"
 
 [[files]]
 file = "config/modmenu.json"
@@ -126,7 +126,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "bc08ed290f7c076e8297b38f80af9694aa5972318ef29a99693a3e297b76f386"
+hash = "808c30194a90fce3a57ba82e92333518f3a14a5fdb69c84b5fac247e46557632"
 metafile = true
 
 [[files]]
@@ -366,7 +366,7 @@ metafile = true
 
 [[files]]
 file = "mods/qsl.pw.toml"
-hash = "954e3e7244f965133e5fc50d861829fb28531e70ab490dea1fc03c57d7bdfd87"
+hash = "d6593b7ec2735cf3867d1d01d29b8adfb3a24e93932022ea299f977e7a81dedd"
 metafile = true
 
 [[files]]
@@ -376,7 +376,7 @@ metafile = true
 
 [[files]]
 file = "mods/roughly-enough-items.pw.toml"
-hash = "59425a808037a8e66f39d063183bec0f9337c3b27bcf09404dada731d4cd83b9"
+hash = "b80d2c3e7f014940b9eb8c1db7f854d5d361f1a3b6b36ce5e6496c9b8d1b11fb"
 metafile = true
 
 [[files]]

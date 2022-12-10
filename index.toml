@@ -10,7 +10,7 @@ hash = "31619d60d0f708dab99e7193143076bfa31a5e75c5eb228ed4e17004f0cb7195"
 
 [[files]]
 file = "README.md"
-hash = "8e07211c1e63483b94eec583b078923f646646c93d6ccc2eeb4fa618145212c2"
+hash = "dc899b1f0c29b6c55aabe7da451d61193a92f8d4506131947289eadfa51220dc"
 
 [[files]]
 file = "config/citresewn.json"
@@ -26,7 +26,7 @@ hash = "aea044f0b5513d77e3a13c0999dad03df447d097ca65dc9f88649c35a5cfa08e"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "8141aae80911a616b17493013748ee6406f4ee43f23b04ebf9cc7c970e74be7e"
+hash = "77cb00f2f489290211b8ad3367f70ad02bd1c2736b5ab09156fdf01ad823137c"
 
 [[files]]
 file = "config/modmenu.json"
@@ -396,7 +396,7 @@ metafile = true
 
 [[files]]
 file = "mods/sound-physics-remastered.pw.toml"
-hash = "198284d31961c9e8a26c154c30ee2e7abe818eed5a5bc9d6f4a77a09456d29b5"
+hash = "53843b76c33ecf7910248cd1c941920adf23f81130a9155997d911199dce0816"
 metafile = true
 
 [[files]]

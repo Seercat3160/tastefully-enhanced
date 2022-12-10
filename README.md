@@ -34,6 +34,5 @@ Launch the instance, and everything will install for you. Every time you want to
 - [Mouse Wheelie v1.10.2](https://modrinth.com/mod/mouse-wheelie/version/1.10.2%2Bmc1.19-pre1)
 - [Presence Footsteps v1.6.2](https://modrinth.com/mod/presence-footsteps/version/1.6.2)
 - [WorldEdit CUI v1.19_01](https://www.curseforge.com/minecraft/mc-mods/worldeditcui-fabric/files/3861076)
-- [NotEnoughCrashes v4.1.8](https://modrinth.com/mod/notenoughcrashes/version/4.1.8)
 - [Tweakeroo v0.14.3](https://www.curseforge.com/minecraft/mc-mods/tweakeroo/files/3923075)
   - [MaLiLib v0.13.0](https://www.curseforge.com/minecraft/mc-mods/malilib/files/3923052)

@@ -16,7 +16,7 @@ Launch the instance, and everything will install for you. Every time you want to
 
 ## Mods
 
-- Everything in [Fabulously Optimised 4.4.2](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/tag/v4.4.2)
+- Everything in [Fabulously Optimised 4.5.5](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/tag/v4.5.5)
 - Replaced [Fabric Loader](https://fabricmc.net/) with [Quilt](https://quiltmc.org/)
 - Replaced [Fabric API](https://modrinth.com/mod/fabric-api) with [Quilted Fabric API](https://modrinth.com/mod/qsl/)
 - [Inspecio v1.6.0+1.19](https://modrinth.com/mod/inspecio/version/1.6.0%2B1.19)
@@ -37,4 +37,3 @@ Launch the instance, and everything will install for you. Every time you want to
 - [NotEnoughCrashes v4.1.8](https://modrinth.com/mod/notenoughcrashes/version/4.1.8)
 - [Tweakeroo v0.14.3](https://www.curseforge.com/minecraft/mc-mods/tweakeroo/files/3923075)
   - [MaLiLib v0.13.0](https://www.curseforge.com/minecraft/mc-mods/malilib/files/3923052)
-- Update to [Lithium v0.10.0](https://modrinth.com/mod/lithium/version/mc1.19.2-0.10.0) to fix compat issues (this will be removed when FO updates)

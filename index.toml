@@ -10,7 +10,7 @@ hash = "31619d60d0f708dab99e7193143076bfa31a5e75c5eb228ed4e17004f0cb7195"
 
 [[files]]
 file = "README.md"
-hash = "e897db6de001c91dcfa09f934d38f6a579a639b618004902cfe2775cc7209ea8"
+hash = "8e07211c1e63483b94eec583b078923f646646c93d6ccc2eeb4fa618145212c2"
 
 [[files]]
 file = "config/citresewn.json"
@@ -26,7 +26,7 @@ hash = "aea044f0b5513d77e3a13c0999dad03df447d097ca65dc9f88649c35a5cfa08e"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "69ed3cfd50093b37cdaef0a2d38b203b593ff4150a3638934da4e070d70aa396"
+hash = "8141aae80911a616b17493013748ee6406f4ee43f23b04ebf9cc7c970e74be7e"
 
 [[files]]
 file = "config/modmenu.json"
@@ -356,7 +356,7 @@ metafile = true
 
 [[files]]
 file = "mods/presence-footsteps.pw.toml"
-hash = "c0b8dcde9209582f6bdf00db9d6df59e9db51ee592020e7552576a3cf2109b04"
+hash = "137460be130a91349243be497e0e33f61d8631d271a1d420cbb37e4ddfd6ab62"
 metafile = true
 
 [[files]]

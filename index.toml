@@ -10,7 +10,7 @@ hash = "31619d60d0f708dab99e7193143076bfa31a5e75c5eb228ed4e17004f0cb7195"
 
 [[files]]
 file = "README.md"
-hash = "dc899b1f0c29b6c55aabe7da451d61193a92f8d4506131947289eadfa51220dc"
+hash = "bafc7a18dd7d4244f39e068849f8e7cd7eff41cace453264a889dd470701662c"
 
 [[files]]
 file = "config/citresewn.json"
@@ -26,7 +26,7 @@ hash = "aea044f0b5513d77e3a13c0999dad03df447d097ca65dc9f88649c35a5cfa08e"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "77cb00f2f489290211b8ad3367f70ad02bd1c2736b5ab09156fdf01ad823137c"
+hash = "c10f88ad0818b7441aafd0ddf74e4cc948ef46e989f0211e34f73b6a2a22b609"
 
 [[files]]
 file = "config/modmenu.json"
@@ -411,7 +411,7 @@ metafile = true
 
 [[files]]
 file = "mods/worldeditcui-fabric.pw.toml"
-hash = "967674c89571c0e2cc9de0d3fc2131ab98a3e2bc65c5ca55d5d7a1980900aced"
+hash = "9e86144c0543f6bcfa735d71451e93d3b101c94bd7956079c080e9e2a4f90f60"
 metafile = true
 
 [[files]]

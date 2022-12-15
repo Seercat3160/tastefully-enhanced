@@ -2,7 +2,7 @@
   "main_menu": {
     "bottom_left": [
       {
-        "text": "Tastefully Enhanced 2.7.0+4.5.5",
+        "text": "Tastefully Enhanced 2.8.0+4.5.5",
         "clickEvent": {
           "action": "open_url",
           "value": "https://github.com/Seercat3160/tastefully-enhanced"

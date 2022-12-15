@@ -26,7 +26,7 @@ hash = "aea044f0b5513d77e3a13c0999dad03df447d097ca65dc9f88649c35a5cfa08e"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "f2054bcb8112c8441fa64518ba435c61a155b7b2cffe693bfc2008505e848c2c"
+hash = "62e0566263522ae9a94d6fe63b441629256bf375f994a05f1fea04a56772d170"
 
 [[files]]
 file = "config/modmenu.json"
@@ -247,6 +247,11 @@ metafile = true
 [[files]]
 file = "mods/fsb-interop.pw.toml"
 hash = "6c3fc6de171a3ae525039aa28a8ae8cca553a8d801dbe8e84dd1cbf483124600"
+metafile = true
+
+[[files]]
+file = "mods/horsestatsvanilla.pw.toml"
+hash = "9899e9ffda5c585943d4eb34f866c1fbc02cc9391d6cb4a5a637e9b8829f26f5"
 metafile = true
 
 [[files]]

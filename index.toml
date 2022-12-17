@@ -10,7 +10,7 @@ hash = "31619d60d0f708dab99e7193143076bfa31a5e75c5eb228ed4e17004f0cb7195"
 
 [[files]]
 file = "README.md"
-hash = "0b7c092071e63072a50dc7f3d533fe8df3404ac611b50ac1d82ca11fd908ccbe"
+hash = "7338eeee74d3197c0578372ac6a0099f5a6af26c765b1ef10b203e81e1b64aad"
 
 [[files]]
 file = "config/citresewn.json"
@@ -26,7 +26,7 @@ hash = "aea044f0b5513d77e3a13c0999dad03df447d097ca65dc9f88649c35a5cfa08e"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "ff4cb4ee9176274d5ddd137a98a6426ffe9e7a51a137568d9f93b239b0737c85"
+hash = "904bc5e038a6eb65b86c14442a56bcda6805fa668e2f33c9071539fe7917efc9"
 
 [[files]]
 file = "config/modmenu.json"
@@ -207,6 +207,11 @@ metafile = true
 [[files]]
 file = "mods/debugify.pw.toml"
 hash = "1bf1172a83d261202c4fb902bca2dc7997905f7a6a8009aa9fb23baa902473c8"
+metafile = true
+
+[[files]]
+file = "mods/distanthorizons.pw.toml"
+hash = "bf466c25f51d243f814c775ea0b24bc98846b2f8de550c6c45c9ad421562e313"
 metafile = true
 
 [[files]]

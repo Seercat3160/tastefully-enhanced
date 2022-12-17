@@ -1,11 +1,11 @@
 name = "Tastefully Enhanced"
-version = "2.8.0+4.5.5"
+version = "2.9.0+4.5.5"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "a4c70db2316c6ac5daae6093397ab47899c50b08557373ec05bedda5d686880e"
+hash = "61a2456b293e43dfb6287a3d0e0103c387fe49bd49d3572d032c6e62cda9dcd7"
 
 [versions]
 minecraft = "1.19.2"

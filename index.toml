@@ -10,7 +10,7 @@ hash = "31619d60d0f708dab99e7193143076bfa31a5e75c5eb228ed4e17004f0cb7195"
 
 [[files]]
 file = "README.md"
-hash = "9dcd6b100c781e552a3aec067d3f527b56ff3e11f388c056a0a124508539bcfb"
+hash = "dd8e9f2aabe06fadf2f004c347e2a498176ba1fd264fc2b5bcab479436c04828"
 
 [[files]]
 file = "config/citresewn.json"
@@ -26,7 +26,7 @@ hash = "aea044f0b5513d77e3a13c0999dad03df447d097ca65dc9f88649c35a5cfa08e"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "62e0566263522ae9a94d6fe63b441629256bf375f994a05f1fea04a56772d170"
+hash = "3ebda566cb1cc49b7098a768b5732554fde2537ea78058a9341f8d2c5b12e25e"
 
 [[files]]
 file = "config/modmenu.json"
@@ -426,12 +426,12 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "9f358b50737609e61b3fa7eeeb2d59294dd42b9c5977a86aabaca00ed5af1e6d"
+hash = "9140df52c99d19879399e11a47b5fca38aa578a08424bde829f32a77afd14e7e"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "21d4fa50f7fc8c1be39e6575941c1ff50cc9e9c64cd0c594b52c713c81c4d579"
+hash = "58597c005d0dd721e5a6d307bd35680f57e31d128fd10eb3848bc7d188c71df6"
 metafile = true
 
 [[files]]

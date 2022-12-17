@@ -10,7 +10,7 @@ hash = "31619d60d0f708dab99e7193143076bfa31a5e75c5eb228ed4e17004f0cb7195"
 
 [[files]]
 file = "README.md"
-hash = "1c9a5ee1d7acbe114a58cfb4718259dfc8ff3c1b57c5e98bca15eb277d2c9ea8"
+hash = "b0c52486512415055669f8c7a9d2989fa1ff0b6f808581e118a71cc78c7661c8"
 
 [[files]]
 file = "config/citresewn.json"
@@ -26,7 +26,7 @@ hash = "aea044f0b5513d77e3a13c0999dad03df447d097ca65dc9f88649c35a5cfa08e"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "2f0c4fd9a97477b5b24f1ff17c3d81108b45749258663ff0e765bb3c978403e5"
+hash = "e16709e7ad926dea5ac3dd5466ff9cba00fbe1f8550740e3b74af0ffd0d90a1c"
 
 [[files]]
 file = "config/modmenu.json"
@@ -167,6 +167,11 @@ metafile = true
 [[files]]
 file = "mods/citresewn.pw.toml"
 hash = "ee1b4f6aa31f789dc845fa936be733bccf56714d90782ba574c8968cb89604d9"
+metafile = true
+
+[[files]]
+file = "mods/client-commands.pw.toml"
+hash = "3bb4a1059f581b7833a343b251f9775cb085b5d3d9a984b3f0ce25a80ffc1e20"
 metafile = true
 
 [[files]]

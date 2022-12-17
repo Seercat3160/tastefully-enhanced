@@ -38,3 +38,5 @@ Launch the instance, and everything will install for you. Every time you want to
   - [MaLiLib v0.13.0](https://www.curseforge.com/minecraft/mc-mods/malilib/files/3923052)
 - [Horse Stats Vanilla v4.2.2](https://modrinth.com/mod/horsestatsvanilla/version/v4.2.2)
 - [clientcommands v2.7.5](https://modrinth.com/mod/client-commands/version/2.7.5)
+- [Chunky v1.3.38](https://modrinth.com/mod/chunky/version/1.3.38-fabric)
+- [Chunky Border v1.1.34](https://modrinth.com/mod/chunkyborder/version/1.1.34-fabric)

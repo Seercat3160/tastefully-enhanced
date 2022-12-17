@@ -10,7 +10,7 @@ hash = "31619d60d0f708dab99e7193143076bfa31a5e75c5eb228ed4e17004f0cb7195"
 
 [[files]]
 file = "README.md"
-hash = "b0c52486512415055669f8c7a9d2989fa1ff0b6f808581e118a71cc78c7661c8"
+hash = "0b7c092071e63072a50dc7f3d533fe8df3404ac611b50ac1d82ca11fd908ccbe"
 
 [[files]]
 file = "config/citresewn.json"
@@ -26,7 +26,7 @@ hash = "aea044f0b5513d77e3a13c0999dad03df447d097ca65dc9f88649c35a5cfa08e"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "e16709e7ad926dea5ac3dd5466ff9cba00fbe1f8550740e3b74af0ffd0d90a1c"
+hash = "ff4cb4ee9176274d5ddd137a98a6426ffe9e7a51a137568d9f93b239b0737c85"
 
 [[files]]
 file = "config/modmenu.json"
@@ -162,6 +162,16 @@ metafile = true
 [[files]]
 file = "mods/cem.pw.toml"
 hash = "6f2fc55eaefc6cf2ebb84337e494ec849ca37f91125f36a8532c7beafb956b35"
+metafile = true
+
+[[files]]
+file = "mods/chunky.pw.toml"
+hash = "b52cd1f4295d855882a41b5f164385e2ba460d7766a2e2e6183ef56c00c824ab"
+metafile = true
+
+[[files]]
+file = "mods/chunkyborder.pw.toml"
+hash = "8c01edf705dc28422eb92b1117815e85cc8c6ecb9bc25b7efb0c6ce1600cc93a"
 metafile = true
 
 [[files]]
